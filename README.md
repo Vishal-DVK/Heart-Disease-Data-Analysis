@@ -21,17 +21,17 @@ Heart Disease Data Analysis using EDA
 - Seaborn: for statistical data visualization.
 - Matplotlib: for creating static, animated, and interactive visualizations.
 
-  ### Exploratory Data Analysis (EDA)
-  - Univariate and bivariate analysis
-  - Histograms, boxplots, countplots, and pairplots for better insights
-  - Correlation heatmaps to identify relationships between variables
-  - Focused on understanding which features are most associated with heart disease presence
+### Exploratory Data Analysis (EDA)
+ - Univariate and bivariate analysis
+ - Histograms, boxplots, countplots, and pairplots for better insights
+ - Correlation heatmaps to identify relationships between variables
+ - Focused on understanding which features are most associated with heart disease presence
 
-  ### Insights
+### Insights
   - Identified how factors like age, sex, chest pain type, and cholesterol levels relate to heart disease
   - Visualized trends across different health metrics
 
-  # Conclusion
+ # Conclusion
   Summarized findings that highlighted the importance of certain features in predicting heart disease, paving the way for future machine learning applications.
 
   
